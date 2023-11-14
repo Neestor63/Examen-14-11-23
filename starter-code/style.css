@@ -1,0 +1,111 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+html{
+   background-color: black;
+}
+
+main{
+   text-align: center;
+   height: 728px;
+    width: 275px;
+    
+}
+body{
+    
+    text-align: center ;
+    margin-left: 35%;
+    margin-right: 35%;
+    
+}
+
+.parte1{
+    background-color:     rgb(43, 7, 77);;
+    margin-bottom: 15%;
+    height: 20rem;
+    color: #fff;
+   
+    
+}
+
+
+
+.head{
+    
+    padding: 10px;
+    padding-top: 8%;
+  
+}
+
+
+
+
+
+
+
+
+img{
+    height: 100px;
+}
+
+
+
+.bot{
+    padding: 8%;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    border-color: aliceblue;
+}
+
+
+.Workit{
+    color: #fff;
+text-align: left;
+   
+}
+
+.Apply{
+    text-decoration: underline cyan 1px;
+    text-align: end;
+    
+}
+
+
+.Data{
+    font-family: F;
+}
+.Data span{
+    text-decoration: underline cyan 2px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.parte2{
+    padding: 20%;
+    background-color: #fff;
+    
+    
+}
+
+.parte21{
+
+}
+
+
+
